@@ -1,0 +1,2 @@
+# Efficient-Sudoku-Puzzle-Solver-with-BFS-DLS-and-Hybrid-Algorithms
+Developed a Sudoku solver using Breadth-First Search (BFS), Depth-Limited Search (DLS), and a heuristic-based hybrid algorithm integrating Iterative Deepening A*. Optimized for memory and performance, the hybrid solver prioritizes constrained cells and balances depth and breadth exploration, achieving efficiency on complex puzzles.
